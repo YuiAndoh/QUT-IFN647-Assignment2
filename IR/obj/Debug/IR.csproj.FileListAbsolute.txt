@@ -1,0 +1,75 @@
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\bin\Debug\IR.exe.config
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\bin\Debug\IR.exe
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\bin\Debug\IR.pdb
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\bin\Debug\Lucene.Net.dll
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\obj\Debug\IR.csprojAssemblyReference.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\obj\Debug\IR.csproj.CoreCompileInputs.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\obj\Debug\IR.csproj.CopyComplete
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\obj\Debug\IR.exe
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\obj\Debug\IR.pdb
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\bin\Debug\Newtonsoft.Json.dll
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\IR\bin\Debug\Newtonsoft.Json.xml
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\bin\Debug\IR.exe.config
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\bin\Debug\IR.exe
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\bin\Debug\IR.pdb
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\bin\Debug\Newtonsoft.Json.dll
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\bin\Debug\Newtonsoft.Json.xml
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\obj\Debug\IR.csprojAssemblyReference.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\obj\Debug\IR.csproj.CoreCompileInputs.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\obj\Debug\IR.csproj.CopyComplete
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\obj\Debug\IR.exe
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\IR System\IR\obj\Debug\IR.pdb
+C:\Users\n10285211\Downloads\IR System\IR\bin\Debug\IR.exe.config
+C:\Users\n10285211\Downloads\IR System\IR\bin\Debug\IR.exe
+C:\Users\n10285211\Downloads\IR System\IR\bin\Debug\IR.pdb
+C:\Users\n10285211\Downloads\IR System\IR\bin\Debug\Lucene.Net.dll
+C:\Users\n10285211\Downloads\IR System\IR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\n10285211\Downloads\IR System\IR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\n10285211\Downloads\IR System\IR\obj\Debug\IR.csprojResolveAssemblyReference.cache
+C:\Users\n10285211\Downloads\IR System\IR\obj\Debug\IR.exe
+C:\Users\n10285211\Downloads\IR System\IR\obj\Debug\IR.pdb
+C:\Users\n10285211\Downloads\IR System\IR\obj\Debug\IR.csproj.CoreCompileInputs.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\bin\Debug\IR.exe.config
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\bin\Debug\IR.exe
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\bin\Debug\IR.pdb
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\bin\Debug\Lucene.Net.dll
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\bin\Debug\Newtonsoft.Json.dll
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\bin\Debug\Newtonsoft.Json.xml
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\obj\Debug\IR.csprojAssemblyReference.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\obj\Debug\IR.csproj.GenerateResource.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\obj\Debug\IR.csproj.CoreCompileInputs.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\obj\Debug\IR.csproj.CopyComplete
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\obj\Debug\IR.exe
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\obj\Debug\IR.pdb
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\obj\Debug\IR.SearchForm.resources
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\Custom IR System\IR System\IR\obj\Debug\IR.SetPathForm.resources
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.csprojAssemblyReference.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.SetPathForm.resources
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.SearchForm.resources
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.csproj.GenerateResource.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.csproj.CoreCompileInputs.cache
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.exe
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.pdb
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\IR.exe.config
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\IR.exe
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\IR.pdb
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\Lucene.Net.dll
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\Newtonsoft.Json.dll
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\Syn.WordNet.dll
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\Newtonsoft.Json.xml
+E:\QUT\Semester2\IFN647 Advanced Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.csproj.CopyComplete
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\IR.exe.config
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\IR.exe
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\IR.pdb
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\Lucene.Net.dll
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\Syn.WordNet.dll
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.csprojAssemblyReference.cache
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.SetPathForm.resources
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.SearchForm.resources
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.csproj.GenerateResource.cache
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.csproj.CoreCompileInputs.cache
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.csproj.CopyComplete
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.exe
+C:\Users\唯\OneDrive\ドキュメント\Queensland University of Technology\2019 Semester 2\IFN647 Information Storage and Retrieval\Project\baseline with GUI\IR System\IR\obj\Debug\IR.pdb
